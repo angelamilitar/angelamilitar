@@ -11,14 +11,16 @@ BS Computer Science
 <br>New Era University
 2023-Present
                             <h2
-        <h2>Certifications</h2>
-                                    <dd>
-<a href="6dd8ba510a6943498c2e7d54bd5a06f0" target="_blank">SQL and Relational Databases 101</a>
-                                    </dd>
-                       <h2>Skill Sets</h2>
+ 
+## Certification
+  - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6dd8ba510a6943498c2e7d54bd5a06f0)
+    
+  - [eCertificate OCI Associate ](https://drive.google.com/file/d/14nS9QZ9g4-p7WVMiW7mhAE_KhABfeuDJ/view)
+  
+  ## Skill Sets
 
 
-- 🖇️ linkedin **www.linkedin.com/in/angelamilitar**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
