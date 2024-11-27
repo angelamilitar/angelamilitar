@@ -15,7 +15,9 @@ BS Computer Science
 ## Certification
   - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6dd8ba510a6943498c2e7d54bd5a06f0)
     
-  - [eCertificate OCI Associate ](https://drive.google.com/file/d/14nS9QZ9g4-p7WVMiW7mhAE_KhABfeuDJ/view)
+  - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D0135B99BD2DB2BE62E90B0E10087AF8070DE8FFC74C6F1422BB10F9BB1B0D98&fbclid=IwY2xjawGz62FleHRuA2FlbQIxMQABHWdEYPjlnq1WG8YASzmvCT2BkZx5q_OHERdF8hYK6aKOD4f8P9t3fWjXCQ_aem_PVG2vbIfniAJ41kD7ZtUrQ)
+
+  - [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3A47BEC193DC70CB1C9EEE39CA964325FF7D2F7201B62092FB60908CE6340B1D&fbclid=IwY2xjawGz6sdleHRuA2FlbQIxMQABHVg7uGkNkS2ccD0nTiUmwePoU5T1eNC5Rhh1qmP6o8ahxnKx-UKewC32Pg_aem_hNrBXUjA_X1GXKN8aDW0HQ) 
   
   ## Skill Sets
 
